@@ -1,2 +1,2 @@
-# Data_Science_Projects
-contains all my very first works regarding data science
+# Data_Science_house_pricing
+regression problem
